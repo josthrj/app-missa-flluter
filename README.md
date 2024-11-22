@@ -1,5 +1,5 @@
 ## Página Inicial: Exploração de Destinos e Ações Rápidas
-## Documentaçao ##
+## Documentação ##
 https://liveestacio-my.sharepoint.com/:w:/g/personal/202303129351_alunos_estacio_br/EQKim60xWxRNu9NtF-ZFgCsBrvo-k7wGV7ra_nWnYmoqIw?e=Ac0tyb
 
 A página inicial do aplicativo "Explore Mundo" oferece uma visão geral do destino destacado e um ponto de partida para o planejamento da viagem.
