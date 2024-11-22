@@ -56,6 +56,4 @@ Este código define um widget para a página inicial de um aplicativo móvel. Aq
 * Outro widget de texto exibe uma descrição mais longa de San Francisco com um estilo de fonte diferente.
 
 
-**Observação:**
 
-Esta análise é baseada no snippet de código fornecido e pode não capturar a funcionalidade completa do aplicativo. As funcionalidades de `createModel` e widgets de botão personalizados (FFButtonWidget) não são totalmente claras sem suas definições.
